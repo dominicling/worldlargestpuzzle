@@ -144,10 +144,21 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>
-      <td></td>      
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16065_01_med.jpg" alt="Educa Sistine Chapel" /></td>
+      <td>Sistine Chapel</td>      
+      <td>Educa</td>
+      <td>18,000</td>
+      <td>321 x 157cm</td>
       <td></td>
       <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="https://images-na.ssl-images-amazon.com/images/I/81050MnkOhL._AC_SX355_.jpg" alt="Educa Museum Master Pieces" /></td>
+      <td>Museum Master Pieces</td>      
+      <td>Educa</td>
+      <td>12,000</td>
       <td></td>
       <td></td>
       <td></td>
@@ -155,22 +166,11 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>
-      <td></td>      
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-  </tr>
-  <tr>
-      <td><img src="" alt="" /></td>
-      <td></td>      
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/14831_01_med.jpg" alt="Educa The Garden of Earthly Delights" /></td>
+      <td>The Garden of Earthly Delights</td>      
+      <td>Educa</td>
+      <td>9,000</td>
+      <td>214 x 118.5cm</td>
       <td></td>
       <td></td>
       <td></td>
