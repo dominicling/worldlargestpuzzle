@@ -34,6 +34,17 @@
       <td></td>
   </tr>
   <tr>
+      <td><img src="https://www.mcprint.eu/www/images/puzzle-50000-pieces.png" alt="" /></td>
+      <td>Animals</td>      
+      <td>Martin Puzzle</td>
+      <td>52,110</td>
+      <td>274 x 79,3 in</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
       <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="Kodak 27 Wonders from Around The World" /></td>
       <td>27 Wonders from Around The World</td>      
       <td>Kodak</td>
@@ -78,6 +89,17 @@
       <td>About 600 Hours</td>
   </tr>
   <tr>
+      <td><img src="" alt="" /></td>
+      <td>Mickey Mouse</td>      
+      <td>Ravensburger</td>
+      <td>40,320</td>
+      <td>2018</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
       <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16066_01_med.jpg" alt="Educa Wild Life" /></td>
       <td>Wild Life</td>      
       <td>Educa</td>
@@ -90,7 +112,7 @@
   </tr>
   <tr>
       <td><img src="" alt="" /></td>
-      <td>New York City</td>      
+      <td>New York City Window</td>      
       <td>Ravensburger</td>
       <td>32,000</td>
       <td></td>
@@ -115,6 +137,28 @@
       <td>Life</td>
       <td>Educa</td>  
       <td>24,000</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="" alt="" /></td>
+      <td></td>      
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="" alt="" /></td>
+      <td></td>      
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
