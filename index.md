@@ -46,7 +46,37 @@
       <td>Educa</td>
       <td></td>
       <td>33,600</td>
-      <td>224.41 x 61.81 in</td>
+      <td>224.41 x 61.81 in / 570 x 157 cm.</td>
+      <td></td>
+      <td></td>
+      <td></td> 
+  </tr>
+  <tr>
+      <td>Around The World</td>      
+      <td>Educa</td>
+      <td>12 February 2018</td>
+      <td>42000</td>
+      <td>749 x 157 cm</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>      
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td></td>      
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
       <td></td>
       <td></td>
       <td></td>
