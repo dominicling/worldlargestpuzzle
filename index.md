@@ -23,7 +23,7 @@
   </thead>
   <tbody>
   <tr>
-      <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="27 Wonders from Around The World" /</td>
+      <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="Kodak 27 Wonders from Around The World" /</td>
       <td>27 Wonders from Around The World</td>      
       <td>Kodak</td>
       <td>10 Dec 2018</td>
@@ -34,7 +34,7 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="https://m.media-amazon.com/images/I/81ysBL88xJL.jpg" alt="Around The World" /</td>
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/17570_01_med.jpg" alt="Educa Around The World" /</td>
       <td>Around The World</td>      
       <td>Educa</td>
       <td>12 February 2018</td>
@@ -45,7 +45,7 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="https://cdn.ravensburger.de/images/produktseiten/1024/17826_1.jpg" alt="Memorable Disney Moments" /</td>
+      <td><img src="https://cdn.ravensburger.de/images/produktseiten/1024/17826_1.jpg" alt="Ravensburger Memorable Disney Moments" /</td>
       <td>Memorable Disney Moments</td>
       <td>Ravensburger</td>
       <td></td>
@@ -56,7 +56,7 @@
       <td>About 600 Hours</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /</td>
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16066_01_med.jpg" alt="Educa Wild Life" /</td>
       <td>Wild Life</td>      
       <td>Educa</td>
       <td></td>
