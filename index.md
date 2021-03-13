@@ -1,7 +1,7 @@
 <html>
-<header>
+<head>
   <title>World's Largest Jigsaw Puzzles</title>
-</header>
+</head>
 <body>
 
 <h1>World's Largest Jigsaw Puzzles</h1>
@@ -23,7 +23,7 @@
   </thead>
   <tbody>
   <tr>
-      <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="Kodak 27 Wonders from Around The World" /</td>
+      <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="Kodak 27 Wonders from Around The World" /></td>
       <td>27 Wonders from Around The World</td>      
       <td>Kodak</td>
       <td>10 Dec 2018</td>
@@ -34,7 +34,18 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/17570_01_med.jpg" alt="Educa Around The World" /</td>
+      <td><img src="" alt="" /></td>
+      <td>Travel around the World</td>      
+      <td>Grafika</td>
+      <td></td>
+      <td>48,000</td>
+      <td>26.77 x 6.30 feet</td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/17570_01_med.jpg" alt="Educa Around The World" /></td>
       <td>Around The World</td>      
       <td>Educa</td>
       <td>12 February 2018</td>
@@ -45,7 +56,7 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="https://cdn.ravensburger.de/images/produktseiten/1024/17826_1.jpg" alt="Ravensburger Memorable Disney Moments" /</td>
+      <td><img src="https://cdn.ravensburger.de/images/produktseiten/1024/17826_1.jpg" alt="Ravensburger Memorable Disney Moments" /></td>
       <td>Memorable Disney Moments</td>
       <td>Ravensburger</td>
       <td></td>
@@ -56,7 +67,7 @@
       <td>About 600 Hours</td>
   </tr>
   <tr>
-      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16066_01_med.jpg" alt="Educa Wild Life" /</td>
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16066_01_med.jpg" alt="Educa Wild Life" /></td>
       <td>Wild Life</td>      
       <td>Educa</td>
       <td></td>
@@ -67,7 +78,40 @@
       <td></td> 
   </tr>
   <tr>
-      <td><img src="" alt="" /</td>
+      <td><img src="" alt="" /></td>
+      <td>New York City Jigsaw Puzzle /td>      
+      <td>Ravensburger</td>
+      <td>32,000</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="" alt="" /></td>
+      <td>Keith Haring: Double Retrospect</td>      
+      <td>Ravensburger</td>
+      <td>32,000</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="" alt="" /></td>
+      <td>Educa</td>      
+      <td>Life</td>
+      <td>24,000</td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+  </tr>
+  <tr>
+      <td><img src="" alt="" /></td>
       <td></td>      
       <td></td>
       <td></td>
@@ -78,7 +122,7 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="" alt="" /</td>
+      <td><img src="" alt="" /></td>
       <td></td>      
       <td></td>
       <td></td>
@@ -89,7 +133,7 @@
       <td></td>
   </tr>
   <tr>
-      <td><img src="" alt="" /</td>
+      <td><img src="" alt="" /></td>
       <td></td>      
       <td></td>
       <td></td>
