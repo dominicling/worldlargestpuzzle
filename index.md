@@ -11,170 +11,110 @@
   <thead>
   <tr>
       <td></td>
-      <td>Name</td>
       <td>Company</td>
+      <td>Name</td>
       <td>Release Date</td>
       <td>Piece Count</td>
-      <td>Format</td>
-      <td>Area</td>
-      <td>Weight</td>
-      <td>Estimated Completion Time</td>
   </tr>
   </thead>
   <tbody>
   <tr>
       <td><img src="https://www.grafika-puzzle.com/images/visuel-record-540006uk.jpg" alt="Grafika Travel around Art" /></td>
-      <td>Travel around Art</td>      
       <td>Grafika</td>
-      <td>54,000</td>
+      <td>Travel around Art</td>      
       <td>27 Aug 2020</td>
-      <td>864 x 204 c</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>54,000</td>
   </tr>
   <tr>
       <td><img src="https://www.mcprint.eu/www/images/puzzle-50000-pieces.png" alt="" /></td>
-      <td>Animals</td>      
       <td>Martin Puzzle</td>
+      <td>Animals</td>      
+      <td></td>
       <td>52,110</td>
-      <td>274 x 79,3 in</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="https://m.media-amazon.com/images/I/81kT6Jk1rfL.jpg" alt="Kodak 27 Wonders from Around The World" /></td>
-      <td>27 Wonders from Around The World</td>      
       <td>Kodak</td>
-      <td>51,300</td>
+      <td>27 Wonders from Around The World</td>      
       <td>10 Dec 2018</td>
-      <td>342'' x 75'' </td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>51,300</td>
   </tr>
   <tr>
-      <td><img src="https://www.grafika-puzzle.com/images/visuel-record-uk.jpg" alt="Grafika Travel around the World" /></td>
-      <td>Travel around the World</td>      
+      <td><img src="https://www.grafika-puzzle.com/images/visuel-record-uk.jpg" alt="Grafika Travel around the World" /></td>  
       <td>Grafika</td>
-      <td>48,000</td>
+      <td>Travel around the World</td>    
       <td>2017</td>
-      <td>26.77 x 6.30 feet</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>48,000</td>
   </tr>
   <tr>
-      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/17570_01_med.jpg" alt="Educa Around The World" /></td>
-      <td>Around The World</td>      
+      <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/17570_01_med.jpg" alt="Educa Around The World" /></td>   
       <td>Educa</td>
-      <td>42,000</td>
+      <td>Around The World</td>   
       <td>12 February 2018</td>
-      <td>749 x 157 cm</td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>42,000</td>
   </tr>
   <tr>
       <td><img src="https://cdn.ravensburger.de/images/produktseiten/1024/17826_1.jpg" alt="Ravensburger Memorable Disney Moments" /></td>
-      <td>Memorable Disney Moments</td>
       <td>Ravensburger</td>
-      <td>40,320</td>
+      <td>Memorable Disney Moments</td>
       <td></td>
-      <td>22.3' x 6.2'</td>
-      <td>nearly 140 square feet</td>
-      <td>approx. 44 lbs.</td>
-      <td>About 600 Hours</td>
+      <td>40,320</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>
-      <td>Mickey Mouse</td>      
+      <td><img src="" alt="" /></td> 
       <td>Ravensburger</td>
-      <td>40,320</td>
+      <td>Mickey Mouse</td>     
       <td>2018</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>40,320</td>
   </tr>
   <tr>
       <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16066_01_med.jpg" alt="Educa Wild Life" /></td>
-      <td>Wild Life</td>      
       <td>Educa</td>
+      <td>Wild Life</td>      
+      <td></td>
       <td>33,600</td>
-      <td></td>
-      <td>224.41 x 61.81 in / 570 x 157 cm.</td>
-      <td></td>
-      <td></td>
-      <td></td> 
   </tr>
   <tr>
       <td><img src="" alt="" /></td>
+      <td>Ravensburger</td>
       <td>New York City Window</td>      
-      <td>Ravensburger</td>
+      <td></td>
       <td>32,000</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="" alt="" /></td>
-      <td>Keith Haring: Double Retrospect</td>      
       <td>Ravensburger</td>
+      <td>Keith Haring: Double Retrospect</td>      
+      <td></td>
       <td>32,000</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="" alt="" /></td>    
-      <td>Life</td>
-      <td>Educa</td>  
+      <td>Educa</td> 
+      <td>Life</td> 
+      <td></td>
       <td>24,000</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/16065_01_med.jpg" alt="Educa Sistine Chapel" /></td>
-      <td>Sistine Chapel</td>      
       <td>Educa</td>
+      <td>Sistine Chapel</td>      
+      <td></td>
       <td>18,000</td>
-      <td>321 x 157cm</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="https://images-na.ssl-images-amazon.com/images/I/81050MnkOhL._AC_SX355_.jpg" alt="Educa Museum Master Pieces" /></td>
-      <td>Museum Master Pieces</td>      
       <td>Educa</td>
+      <td>Museum Master Pieces</td>      
+      <td></td>
       <td>12,000</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="https://www.educaborras.com/wp-content/uploads/2021/01/14831_01_med.jpg" alt="Educa The Garden of Earthly Delights" /></td>
-      <td>The Garden of Earthly Delights</td>      
       <td>Educa</td>
+      <td>The Garden of Earthly Delights</td>
+      <td></td>
       <td>9,000</td>
-      <td>214 x 118.5cm</td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
   </tr>
   <tr>
       <td><img src="" alt="" /></td>
