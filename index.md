@@ -68,7 +68,7 @@
       <td>40,320</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td> 
+      <td><img src="https://www.toybricks.com.au/3344-large_default/ravensburger-disney-mickey-through-the-years-40320-pieces.jpg" alt="Ravensburger Mickey Mouse" /></td> 
       <td>Ravensburger</td>
       <td class="puzzle-name">Mickey Mouse</td>     
       <td>2018</td>
@@ -82,21 +82,21 @@
       <td>33,600</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>
+      <td><img src="https://www.artnhobby.ie/media/catalog/product/cache/2/image/9df78eab33525d08d6e5fb8d27136e95/1/7/17837r-4.jpg" alt="Ravensburger New York City Window" /></td>
       <td>Ravensburger</td>
       <td class="puzzle-name">New York City Window</td>      
       <td></td>
       <td>32,000</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>
+      <td><img src="https://www.borntobekids.fr/image/150871/1400x1050/1/ravensburger-17838-puzzle-32-000-pieces-double-retrospect-keith-haring-1400.jpg" alt="Ravensburger Keith Haring: Double Retrospect" /></td>
       <td>Ravensburger</td>
       <td class="puzzle-name">Keith Haring: Double Retrospect</td>      
       <td></td>
       <td>32,000</td>
   </tr>
   <tr>
-      <td><img src="" alt="" /></td>    
+      <td><img src="https://m.media-amazon.com/images/I/814G0UyNUIL.jpg" alt="Educa Life" /></td>    
       <td>Educa</td> 
       <td class="puzzle-name">Life</td> 
       <td></td>
