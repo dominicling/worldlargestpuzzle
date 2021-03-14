@@ -1,6 +1,9 @@
 <html>
 <head>
   <title>World's Largest Jigsaw Puzzles</title>
+  <style>
+    td.name {width:150px}
+  </style>
 </head>
 <body>
 
@@ -12,7 +15,7 @@
   <tr>
       <td></td>
       <td>Company</td>
-      <td>Name</td>
+      <td class="name">Name</td>
       <td>Release Date</td>
       <td>Piece Count</td>
   </tr>
