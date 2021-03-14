@@ -2,10 +2,10 @@
 <head>
   <title>World's Largest Jigsaw Puzzles</title>
   <style>
-    td.puzzle-thumb {width:150px;}
-    td.puzzle-company {width:100px;}
-    td.puzzle-name {width:200px;}
-    td.puzzle-date {width:100px;}
+    td.puzzle-thumb {width:200px;}
+    td.puzzle-company {width:150px;}
+    td.puzzle-name {width:250px;}
+    td.puzzle-date {width:150px;}
     td.puzzle-count {}
   </style>
 </head>
