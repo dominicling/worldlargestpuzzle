@@ -2,7 +2,11 @@
 <head>
   <title>World's Largest Jigsaw Puzzles</title>
   <style>
-    td.pname {width:150px}
+    td.puzzle-thumb {width:150px;}
+    td.puzzle-company {width:100px;}
+    td.puzzle-name {width:200px;}
+    td.puzzle-date {width:100px;}
+    td.puzzle-count {}
   </style>
 </head>
 <body>
@@ -10,14 +14,14 @@
 <h1>World's Largest Jigsaw Puzzles</h1>
 
 
-<table>
+<table width="100%">
   <thead>
   <tr>
-      <td></td>
-      <td>Company</td>
-      <td class="pname">Name</td>
-      <td>Release Date</td>
-      <td>Piece Count</td>
+      <td class="puzzle-thumb"></td>
+      <td class="puzzle-company">Company</td>
+      <td class="puzzle-name">Name</td>
+      <td class="puzzle-date">Release Date</td>
+      <td class="puzzle-count">Piece Count</td>
   </tr>
   </thead>
   <tbody>
