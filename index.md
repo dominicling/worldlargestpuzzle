@@ -134,6 +134,34 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <td>18,000</td>
   </tr>
   <tr>
+      <td><img src="https://www.clementoni.com/media/prod/fi/38010/thumbs/disney-orchestra-13200-pcs-high-quality-collection_zgD6xU0.jpg.460x460_q100.jpg" alt="Clementoni Disney Orchestra" /></td>
+      <td>Clementoni</td>
+      <td class="puzzle-name">Disney Orchestra</td>      
+      <td></td>
+      <td>13,200</td>
+  </tr>
+  <tr>
+      <td><img src="https://www.clementoni.com/media/prod/fi/38006/thumbs/band-of-thunder-13200-pcs-high-quality-collection_s8MAFmR.jpg.460x460_q100.jpg" alt="Clementoni Band of thunder" /></td>
+      <td>Clementoni</td>
+      <td class="puzzle-name">Band of thunder</td>      
+      <td></td>
+      <td>13,200</td>
+  </tr>
+  <tr>
+      <td><img src="https://www.clementoni.com/media/prod/fi/38007/thumbs/sellagruppe-dolomiten-13200-pcs-high-quality-collection_rr0PZid.jpg.460x460_q100.jpg" alt="Clementoni Sellagruppe - Dolomiten" /></td>
+      <td>Clementoni</td>
+      <td class="puzzle-name">Sellagruppe - Dolomiten</td>      
+      <td></td>
+      <td>13,200</td>
+  </tr>
+  <tr>
+      <td><img src="https://www.clementoni.com/media/prod/fi/38009/thumbs/new-york-13200-pcs-high-quality-collection_avtm3w2.jpg.460x460_q100.jpg" alt="Clementoni New York" /></td>
+      <td>Clementoni</td>
+      <td class="puzzle-name">New York</td>      
+      <td></td>
+      <td>13,200</td>
+  </tr>
+  <tr>
       <td><img src="https://images-na.ssl-images-amazon.com/images/I/81050MnkOhL._AC_SX355_.jpg" alt="Educa Museum Master Pieces" /></td>
       <td>Educa</td>
       <td class="puzzle-name">Museum Master Pieces</td>      
